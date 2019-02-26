@@ -16,6 +16,7 @@
 PLATFORM_COMMON_PATH := device/sony/nile
 PRODUCT_PLATFORM_SOD := true
 
+TARGET_KERNEL_SOURCE := kernel/sony/msm-4.9/kernel
 TARGET_BOARD_PLATFORM := sdm660
 KERNEL_PATH := kernel/sony/msm-$(SOMC_KERNEL_VERSION)
 
